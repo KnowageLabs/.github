@@ -12,8 +12,8 @@ Knowage is part of the [OW2](https://www.ow2.org) open source community.
 |---|---|
 | [Knowage](https://github.com/KnowageLabs/Knowage) | 📖 Documentation, issues & contributing guidelines |
 | [Knowage-Server](https://github.com/KnowageLabs/Knowage-Server) | ☕ Backend – Java server |
-| [Knowage-Vue](https://github.com/KnowageLabs/Knowage-Vue) | 🖼️ Frontend – Vue.js |
-| [Knowage-Docker](https://github.com/KnowageLabs/Knowage-Docker) | 🐳 Docker images & deployment |
+| [Knowage-Vue](https://github.com/KnowageLabs/Knowage-server-frontend) | 🖼️ Frontend – Vue.js |
+| [Knowage-Docker](https://github.com/KnowageLabs/Knowage-server-Docker) | 🐳 Docker images & deployment |
 
 ## Quick links
 
